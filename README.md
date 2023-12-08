@@ -7,3 +7,4 @@ It's about using HTML to create a recipes website.
 - Paragraphs
 - Images
 - Links
+- Lists
