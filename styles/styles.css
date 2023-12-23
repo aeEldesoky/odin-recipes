@@ -1,22 +1,26 @@
-html {
-    color: whitesmoke;
+/* Set global background color and font family to the whole website */
+body {
     background-color: rgb(50, 50, 50);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-
-li, a, p {
-    color: rgb(151, 158, 194);
+/* set formatting for page content */
+li, p {
+    color: rgb(150, 160, 190);
     font-size: 18px;
     line-height: 2em;
 }
-
+/* Format links */
 a {
+    /* Remove underline */
     text-decoration: none;
+    /* Set color */
+    color: lightgreen;
 }
+/* Set color for visited links */
 a:visited {
     color:burlywood;
 }
-
-a:hover {
-    color: white;
+/* Set color for headings and link hover */
+h1, h2, a:hover {
+    color: whitesmoke;
 }
