@@ -1,0 +1,22 @@
+html {
+    color: whitesmoke;
+    background-color: rgb(50, 50, 50);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li, a, p {
+    color: rgb(151, 158, 194);
+    font-size: 18px;
+    line-height: 2em;
+}
+
+a {
+    text-decoration: none;
+}
+a:visited {
+    color:burlywood;
+}
+
+a:hover {
+    color: white;
+}
