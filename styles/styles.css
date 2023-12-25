@@ -1,13 +1,22 @@
 /* Set global background color and font family to the whole website */
 body {
-    background-color: rgb(50, 50, 50);
+    background: url(../images/background.jpg);
+    background-size: 100vw;
+    background-repeat: repeat-y;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0 15em;
+}
+main {
+    background-color: rgb(50, 50, 50);
+    padding: 1em;
+    margin: 2em auto;
 }
 /* set formatting for page content */
 li, p {
     color: rgb(150, 160, 190);
     font-size: 18px;
     line-height: 2em;
+    text-align: justify;
 }
 /* Format links */
 a {
