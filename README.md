@@ -15,3 +15,5 @@ It's about using HTML to create a recipes website.
 - Color
 - Background Color
 - Font
+- Box Model
+- Block and Inline
