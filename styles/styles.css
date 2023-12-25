@@ -1,11 +1,15 @@
 /* Set global background color and font family to the whole website */
 body {
+    /* Specify the background image URL */
     background: url(../images/background.jpg);
+    /* Stretch background to take all viewport width */
     background-size: 100vw;
+    /* Repeat background vertically (on the y-axis) */
     background-repeat: repeat-y;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding: 0 15em;
 }
+/* Main content of the page */
 main {
     background-color: rgb(50, 50, 50);
     padding: 1em;

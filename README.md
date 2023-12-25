@@ -13,7 +13,7 @@ It's about using HTML to create a recipes website.
 - Lists
 ### CSS
 - Color
-- Background Color
+- Background and Background color
 - Font
 - Box Model
 - Block and Inline
